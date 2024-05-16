@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   return {
     name: 'John Doe',
     age: 30,
